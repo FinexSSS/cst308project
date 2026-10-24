@@ -11,7 +11,7 @@ decides what counts as "our" culture, and how a living tradition is passed on wi
 | --- | --- |
 | **Course** | CST308: Religious Pluralism, Religious Freedom, and Dialogue in the Modern World |
 | **University** | BRAC University |
-| **Author** | Shahriar Akram |
+| **Author** | Shahariar Akram |
 | **Date** | 11 September 2026 |
 
 ## The articles
